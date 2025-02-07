@@ -36,6 +36,7 @@
             toolStripMenuItem4 = new ToolStripMenuItem();
             оПрограммеToolStripMenuItem = new ToolStripMenuItem();
             panel1 = new Panel();
+            label7 = new Label();
             label6 = new Label();
             label5 = new Label();
             button1 = new Button();
@@ -45,7 +46,6 @@
             label2 = new Label();
             label1 = new Label();
             textBox1 = new TextBox();
-            label7 = new Label();
             menuStrip1.SuspendLayout();
             panel1.SuspendLayout();
             SuspendLayout();
@@ -109,14 +109,23 @@
             panel1.Size = new Size(484, 176);
             panel1.TabIndex = 1;
             // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.Location = new Point(118, 39);
+            label7.Name = "label7";
+            label7.Size = new Size(12, 15);
+            label7.TabIndex = 9;
+            label7.Text = "-";
+            // 
             // label6
             // 
             label6.AutoSize = true;
             label6.Location = new Point(408, 39);
             label6.Name = "label6";
-            label6.Size = new Size(64, 15);
+            label6.Size = new Size(13, 15);
             label6.TabIndex = 8;
-            label6.Text = "Ожидание";
+            label6.Text = "0";
             // 
             // label5
             // 
@@ -188,15 +197,6 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(100, 23);
             textBox1.TabIndex = 0;
-            // 
-            // label7
-            // 
-            label7.AutoSize = true;
-            label7.Location = new Point(118, 39);
-            label7.Name = "label7";
-            label7.Size = new Size(12, 15);
-            label7.TabIndex = 9;
-            label7.Text = "-";
             // 
             // Form1
             // 

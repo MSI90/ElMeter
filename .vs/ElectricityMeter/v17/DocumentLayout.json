@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\.NET\\source\\repos\\ElectricityMeter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A95CB9F8-480E-4D49-B3F9-527FEC5FF5F2}|ElectricityMeter\\ElectricityMeter.csproj|C:\\Users\\.NET\\source\\repos\\ElectricityMeter\\electricitymeter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A95CB9F8-480E-4D49-B3F9-527FEC5FF5F2}|ElectricityMeter\\ElectricityMeter.csproj|c:\\users\\.net\\source\\repos\\electricitymeter\\electricitymeter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A95CB9F8-480E-4D49-B3F9-527FEC5FF5F2}|ElectricityMeter\\ElectricityMeter.csproj|solutionrelative:electricitymeter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -35,15 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ElectricityMeter",
+              "Title": "ElectricityMeter.csproj",
               "DocumentMoniker": "C:\\Users\\.NET\\source\\repos\\ElectricityMeter\\ElectricityMeter\\ElectricityMeter.csproj",
               "RelativeDocumentMoniker": "ElectricityMeter\\ElectricityMeter.csproj",
               "ToolTip": "C:\\Users\\.NET\\source\\repos\\ElectricityMeter\\ElectricityMeter\\ElectricityMeter.csproj",
               "RelativeToolTip": "ElectricityMeter\\ElectricityMeter.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-06T13:08:51.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T13:08:51.468Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "ElectricityMeter\\Settings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T17:52:10.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T17:52:10.635Z"
             },
             {
               "$type": "Document",
