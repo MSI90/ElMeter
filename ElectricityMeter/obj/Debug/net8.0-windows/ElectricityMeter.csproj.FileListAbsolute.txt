@@ -1,0 +1,17 @@
+C:\Users\.NET\source\repos\ElectricityMeter\ElectricityMeter\obj\Debug\net8.0-windows\ElectricityMeter.csproj.GenerateResource.cache
+C:\Users\.NET\source\repos\ElectricityMeter\ElectricityMeter\obj\Debug\net8.0-windows\ElectricityMeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\.NET\source\repos\ElectricityMeter\ElectricityMeter\obj\Debug\net8.0-windows\ElectricityMeter.AssemblyInfoInputs.cache
+C:\Users\.NET\source\repos\ElectricityMeter\ElectricityMeter\obj\Debug\net8.0-windows\ElectricityMeter.AssemblyInfo.cs
+C:\Users\.NET\source\repos\ElectricityMeter\ElectricityMeter\obj\Debug\net8.0-windows\ElectricityMeter.csproj.CoreCompileInputs.cache
+C:\Users\.NET\source\repos\ElectricityMeter\ElectricityMeter\bin\Debug\net8.0-windows\ElectricityMeter.exe
+C:\Users\.NET\source\repos\ElectricityMeter\ElectricityMeter\bin\Debug\net8.0-windows\ElectricityMeter.deps.json
+C:\Users\.NET\source\repos\ElectricityMeter\ElectricityMeter\bin\Debug\net8.0-windows\ElectricityMeter.runtimeconfig.json
+C:\Users\.NET\source\repos\ElectricityMeter\ElectricityMeter\bin\Debug\net8.0-windows\ElectricityMeter.dll
+C:\Users\.NET\source\repos\ElectricityMeter\ElectricityMeter\bin\Debug\net8.0-windows\ElectricityMeter.pdb
+C:\Users\.NET\source\repos\ElectricityMeter\ElectricityMeter\obj\Debug\net8.0-windows\ElectricityMeter.dll
+C:\Users\.NET\source\repos\ElectricityMeter\ElectricityMeter\obj\Debug\net8.0-windows\refint\ElectricityMeter.dll
+C:\Users\.NET\source\repos\ElectricityMeter\ElectricityMeter\obj\Debug\net8.0-windows\ElectricityMeter.pdb
+C:\Users\.NET\source\repos\ElectricityMeter\ElectricityMeter\obj\Debug\net8.0-windows\ElectricityMeter.genruntimeconfig.cache
+C:\Users\.NET\source\repos\ElectricityMeter\ElectricityMeter\obj\Debug\net8.0-windows\ref\ElectricityMeter.dll
+C:\Users\.NET\source\repos\ElectricityMeter\ElectricityMeter\obj\Debug\net8.0-windows\ElectricityMeter.Form1.resources
+C:\Users\.NET\source\repos\ElectricityMeter\ElectricityMeter\obj\Debug\net8.0-windows\ElectricityMeter.Properties.Resources.resources
